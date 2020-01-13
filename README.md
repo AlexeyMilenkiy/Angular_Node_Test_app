@@ -13,13 +13,15 @@ To start without Docker:
 1. Go to api-everest, and to start development server, please run:
 
 ```
-npm install npm start
+npm install
+npm start
 ```
 
 2. Go to ui-everest, and to start the app, please run:
 
 ```
-npm install npm start
+npm install
+npm start
 ```
 
 Runs the app in the development mode.
